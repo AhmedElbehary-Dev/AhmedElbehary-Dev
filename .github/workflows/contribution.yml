@@ -1,0 +1,30 @@
+
+name: Contribution animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: AhmedElbehary-Dev
+          outputs: |
+            dist/github-snake.svg?color_snake=%23800020&color_dots=%23161616,%23C0C0C0,%23A64D64,%23800020,%23600018
+
+      - name: Publish animation
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
