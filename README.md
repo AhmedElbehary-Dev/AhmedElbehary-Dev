@@ -154,11 +154,15 @@ Markdown to PDF, DOCX and XLSX export, PDF editing and compression, image-to-PDF
 
 </details>
 
-## GitHub activity
+## GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/AhmedElbehary-Dev?tab=repositories"><img alt="Public GitHub repositories" src="https://img.shields.io/badge/Public%20repositories-View-800020?style=flat-square&amp;logo=github&amp;logoColor=white" /></a>
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/AhmedElbehary-Dev?style=flat-square&amp;color=800020&amp;labelColor=121212" />
+  <a href="https://github.com/AhmedElbehary-Dev?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-800020?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+  </a>
+  <a href="https://github.com/AhmedElbehary-Dev?tab=followers">
+    <img src="https://img.shields.io/badge/Followers-800020?style=for-the-badge&logo=github&logoColor=white" alt="Followers"/>
+  </a>
 </p>
 
 <!-- After the contribution workflow succeeds, uncomment this image:
