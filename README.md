@@ -18,9 +18,13 @@ Senior .NET Software Engineer with **7+ years of experience** delivering product
 
 C#, .NET 8/10, ASP.NET Core, Minimal APIs, REST, SignalR, JWT/OAuth
 
+
 **Data & Architecture**
 
-![Data & Architecture icons](https://skillicons.dev/icons?i=postgres)
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" height="48" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="48" alt="SQL Server"/>
+</p>
 
 PostgreSQL, SQL Server, EF Core, Dapper, SOLID, layered monoliths
 
