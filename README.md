@@ -16,7 +16,7 @@ Senior .NET Software Engineer with **7+ years of experience** delivering product
 
 ![Backend icons](https://skillicons.dev/icons?i=cs,dotnet)
 
-C#, .NET 8/10, ASP.NET Core, Minimal APIs, REST, SignalR, JWT/OAuth
+C#, .NET 4.8/10, ASP.NET Core, Minimal APIs, REST, SignalR, JWT/OAuth
 
 
 **Data & Architecture**
