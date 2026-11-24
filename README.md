@@ -165,9 +165,9 @@ Markdown to PDF, DOCX and XLSX export, PDF editing and compression, image-to-PDF
   </a>
 </p>
 
-<!-- After the contribution workflow succeeds, uncomment this image:
-![Contribution animation](https://raw.githubusercontent.com/AhmedElbehary-Dev/AhmedElbehary-Dev/output/github-snake.svg)
--->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AhmedElbehary-Dev/AhmedElbehary-Dev/output/github-snake.svg" alt="GitHub Contribution Animation" width="100%"/>
+</p>
 
 ## Let's connect
 
