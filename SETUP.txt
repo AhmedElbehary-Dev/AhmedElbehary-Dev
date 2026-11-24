@@ -1,0 +1,3 @@
+Upload README.md, assets/ and .github/ to the root of your public AhmedElbehary-Dev/AhmedElbehary-Dev repository.
+In GitHub Actions select Contribution animation and run it manually. Once the output branch contains github-snake.svg, uncomment the image in README.md.
+The workflow uses third-party actions; review them before enabling. Technology icons and badges depend on external services. GitHub may render SVG animation differently across clients. The workflow is provided but has not been executed on GitHub.
